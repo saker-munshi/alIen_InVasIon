@@ -2,7 +2,7 @@
 
 An exciting 2D space shooter game where players defend Earth from waves of invading aliens. Control your spaceship, shoot enemies, avoid attacks, and survive through increasingly difficult levels.
 
->> Features
+   Features
 1. Smooth spaceship controls
 2. Multiple alien enemies
 3. Bullet shooting mechanics
@@ -13,12 +13,12 @@ An exciting 2D space shooter game where players defend Earth from waves of invad
 8. Arcade-style gameplay
 
 
->> Built With
+  Built With
 Python
 Pygame
 
 
->> Installation
+   Installation
 1. Clone the repository
 git clone https://github.com/your-username/alien-invasion.git
   
@@ -32,7 +32,7 @@ pip install pygame
 python alien_invasion.py
 
 
->>Controls
+  Controls
 Key	Action
 ⬅️ / A	Move Left
 ➡️ / D	Move Right
@@ -40,7 +40,7 @@ Key	Action
 SPACE	Shoot
 ESC	Quit Game
 
->> Project Structure
+   Project Structure
 alien-invasion/
 │
 ├── alien_invasion.py
@@ -60,7 +60,7 @@ alien-invasion/
 
 
 
->> Screenshot
+   Screenshot
 
 Add your gameplay screenshot here:
 
@@ -75,7 +75,7 @@ Add your gameplay screenshot here:
 5. Online leaderboard
 
 
->>Contributing
+  Contributing
 
 Contributions are welcome!
 
@@ -85,14 +85,14 @@ Commit your changes
 Push the branch
 Open a Pull Request
 
->>License
+  License
 
 This project is licensed under the MIT License.
 
->> Author
+   Author
 
-Made with ❤️ by Saker Munshi
+Made by Saker Munshi
 
->> Support
+   Support
 
 If you like this project, give it a ⭐ on GitHub!
