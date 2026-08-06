@@ -68,11 +68,11 @@ Add your gameplay screenshot here:
 
 
 ## Future Improvements
-1.  Boss fights
-2.  ower-ups and shields
-3.  Multiplayer mode
-4.  Mobile support
-5. Online leaderboard
+1.  Boss fights.
+2.  ower-ups and shields.
+3.  Multiplayer mode.
+4.  Mobile support.
+5. Online leaderboard.
 
 ## Author
 
