@@ -28,7 +28,7 @@ cd alien-invasion
 3. Install dependencies
 pip install pygame
 
-4️ Run the game
+4️. Run the game
 python alien_invasion.py
 
 
