@@ -65,7 +65,7 @@ alien-invasion/
 Add your gameplay screenshot here:
 
 
-![Starting page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/3e606ae795ce5b75a43b5f567ab9dfbf80bd8f95/UI/Starting_page.png))
+![Starting page Screenshot](https://github.com/saker-munshi/alIen_InVasIon/blob/3e606ae795ce5b75a43b5f567ab9dfbf80bd8f95/UI/Starting_page.png)
 
 ![Levels page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/c83fafd94b805e03c090bc90c7f05956b7bf3119/UI/Level_page.png)
 
