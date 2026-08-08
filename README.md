@@ -67,7 +67,7 @@ Add your gameplay screenshot here:
 
 ![Starting page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/3e606ae795ce5b75a43b5f567ab9dfbf80bd8f95/UI/Starting_page.png))
 
-![Levels page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/6750579ad5d6efb5cf0b7051a4a7059dbc9d5c81/UI/Level_page.png))
+![Levels page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/c83fafd94b805e03c090bc90c7f05956b7bf3119/UI/Level_page.png)
 
 ![Score page Screenshot]((https://github.com/saker-munshi/alIen_InVasIon/blob/920469c0d99c7acf23ded3712bec21ba8e43133d/UI/Score_page.png))
 
