@@ -15,7 +15,7 @@ An exciting 2D space shooter game where players defend Earth from waves of invad
 
  ## Built With
 Python
-Pygame
+Pygame.
 
 
  ## Installation
